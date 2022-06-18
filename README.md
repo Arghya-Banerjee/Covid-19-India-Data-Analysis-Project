@@ -19,4 +19,37 @@ The main motive behind this project was just practicing and learning new things 
 
 ### Things I have done in this Project:
 
-Firstly I imported all the downloaded datasets into the project using the `pd.read_csv("dataset.csv")` command into 3 different datasets.
+Firstly I imported all the downloaded datasets into the project using the `pd.read_csv("dataset.csv")` command into 3 different datasets. After that I used some data exploration commands like `df.head()`, `df.tail()`, `df.info()` as well as `df.describe()` to explore the data and see for NULL values and anomaly. 
+
+After the data exploration part was over it was time to divide and sort the datasets into suitable form to draw insights and reprent it in graphical form for better usderstanding of the numbers.
+
+At last I used a mixture of all graphical modules in python to draw graphs and pie charts to represent the data in a more cleaner and understandable way than a excel file or a csv file.
+
+
+### Graphical Insights from the Data:
+
+#### Confirmed vs Recovery Rate vs Mortality Rate Demographic according to States
+
+
+
+#### Top 10 States with Most Active Cases 
+
+
+
+#### Top 10 States with Least Active Cases 
+
+
+
+#### Top 5 States Affected by Covid-19
+
+
+
+#### Male vs Female Vaccination
+
+
+
+#### Top 5 States with Most Vaccinated Individuals
+
+
+
+#### Top 5 States with Least Vaccinated Individuals
