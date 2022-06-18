@@ -1,4 +1,4 @@
-# Covid-19 Data Analysis Project for India
+# Covid-19 India Data Analysis Project
 
 This is a practice **Data Analysis Project** by me in the field of **Covid-19 Virus** spreading in India. The Data/Datasets used in this is project are provided by **[Kaggle](https://www.kaggle.com/)**.
 
