@@ -10,11 +10,11 @@ The main motive behind this project was just practicing and learning new things 
 
 <ul>
     <li> [Pandas](https://pandas.pydata.org/) </li>
-    <li> [Numpy](https://pandas.pydata.org/) </li>
-    <li> [Matplotlib](https://pandas.pydata.org/) </li>
-    <li> [Seaborn](https://pandas.pydata.org/) </li>
-    <li> [Plotly](https://pandas.pydata.org/) </li>
-    <li> [Datetime](https://pandas.pydata.org/) </li>
+    <li> [Numpy](https://numpy.org/) </li>
+    <li> [Matplotlib](https://matplotlib.org/) </li>
+    <li> [Seaborn](https://seaborn.pydata.org/) </li>
+    <li> [Plotly](https://plotly.com/python/) </li>
+    <li> [Datetime](https://docs.python.org/3/library/datetime.html) </li>
 </ul>
 
 ### Things I have done in this Project:
